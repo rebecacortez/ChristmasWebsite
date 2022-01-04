@@ -154,6 +154,12 @@ button {
   z-index: var(--z-fixed);
 }
 /*=============== NAV ===============*/
+.nav {
+  height: var(--header-height);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
 
 /* Show menu */
 
