@@ -1,18 +1,22 @@
-## Responsive Christmas Website 
+# Responsive Christmas Website 
 
-This project was based on the design created and made available via Youtube by **[Bedimcode](https://www.youtube.com/channel/UCgkDs77BoEhMIgRUB4MKrtQ)**.
-
-:sparkles: Technologies used:
+## Technologies used:
 
 - HTML
 - CSS
 - JavaScript
 
-:sparkles: Learning:
+## Learning:
 
 - Use of HTML tags
 - Use of classes
 - CSS Flexbox
-- Use of external sources
 
-https://rebecacortez.github.io/ChristmasWebsite/
+## Demo
+You can access the project by clicking **[here](https://rebecacortez.github.io/ChristmasWebsite/)**.
+
+##
+
+This project was based on the design created and made available via Youtube by **[Bedimcode](https://www.youtube.com/channel/UCgkDs77BoEhMIgRUB4MKrtQ)**.
+
+**Developed with love 💛 by [Rebeca Cortez](https://github.com/rebecacortez/).**
